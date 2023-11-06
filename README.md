@@ -1,7 +1,7 @@
 # Project Quay
 
 ![CI](https://github.com/chbinousamy/quay/workflows/CI/badge.svg?branch=master)
-[![Container Repository on Quay](https://quay.io/repository/projectquay/quay/status "Container Repository on Quay")](https://quay.io/repository/projectquay/quay)
+[![Container Repository on Quay](https://quay.io/repository/chbinousamy/quay/status "Container Repository on Quay")](https://quay.io/repository/chbinousamy/quay)
 
 :warning: The `master` branch may be in an *unstable or even broken state* during development.
 Please use [releases] instead of the `master` branch in order to get stable software.
